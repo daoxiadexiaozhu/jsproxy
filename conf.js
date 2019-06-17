@@ -7,7 +7,7 @@ jsproxy_config({
     'cfworker': {
       label: 'Cloudflare Worker',
       lines: [
-        'dawn-firefly-80c0.putk.workers.dev:8443'
+        'dawn-firefly-80c0.putk.workers.dev'
       ]
     }
   },
